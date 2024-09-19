@@ -10,3 +10,15 @@
 4. Do LeetCode questions and it will **automatically** add files into the repository
 
 ##### I hope you find this useful!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/audrey06lee05/leetcode-records/tree/master/1791-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/audrey06lee05/leetcode-records/tree/master/1791-richest-customer-wealth) |
+<!---LeetCode Topics End-->
