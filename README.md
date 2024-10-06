@@ -18,6 +18,7 @@
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/audrey06lee05/leetcode-records/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/audrey06lee05/leetcode-records/tree/master/1791-richest-customer-wealth) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/audrey06lee05/leetcode-records/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/audrey06lee05/leetcode-records/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Matrix
 |  |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/audrey06lee05/leetcode-records/tree/master/1603-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [2341-count-prefixes-of-a-given-string](https://github.com/audrey06lee05/leetcode-records/tree/master/2341-count-prefixes-of-a-given-string) |
 <!---LeetCode Topics End-->
