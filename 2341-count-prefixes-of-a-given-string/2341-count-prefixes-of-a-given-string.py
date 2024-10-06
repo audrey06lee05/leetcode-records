@@ -2,6 +2,14 @@ class Solution:
     def countPrefixes(self, words: List[str], s: str) -> int:
         output = 0 # count prefix 
 
+        # loop through each element in words
+        for i in words:
+            # slicing s to according to length of i and see if it matches with i
+            if (s[:len(i)] == i):
+                output += 1
+        
+        return output
+        """
         # create a model answer list to show the prefix 
         prefix_list = []
         # go through each letter in s
@@ -24,3 +32,5 @@ class Solution:
         
         return output 
                 
+        """
+        
