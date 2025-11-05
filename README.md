@@ -1,6 +1,6 @@
 
 # ✏️ Leetcode Records
-✨ This is a repository that stores the LeetCode questions I did in preparing for my graduate job applications. <br/><br/>
+✨ This is a repository that stores the LeetCode questions I did. <br/><br/>
 ✨ I find this extremely useful as it makes GitHub record my code activity even though I am not working on projects. 
 
 ## 🔧 Set Up 
